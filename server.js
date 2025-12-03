@@ -7,7 +7,7 @@ const app = express();
 
 app.use(cors({
     origin: [
-        'https://recargadiamant3s.pages.dev', 
+        'https://dimascompra.pages.dev/', 
         'http://localhost:5173',              
         'http://localhost:3000'
     ],
